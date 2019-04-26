@@ -29,4 +29,8 @@ array.shift()
 return array
 }
 
-function
+function removeElementFromBeginningOfArray(array) {
+array.shift()
+return array
+}
+}
