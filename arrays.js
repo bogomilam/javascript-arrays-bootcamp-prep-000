@@ -39,5 +39,6 @@ return array
 }
 
 function removeElementFromEndOfArray(array) {
-return array.
+return array.length(-1)
+}
 }
