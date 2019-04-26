@@ -33,4 +33,3 @@ function removeElementFromBeginningOfArray(array) {
 array.unshift()
 return array
 }
-}
