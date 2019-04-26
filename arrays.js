@@ -21,6 +21,6 @@ return array
 }
 
 function accessElementInArray(array, index) {
-  return [index]
+  return [element,index]
 }
 
