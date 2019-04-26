@@ -38,4 +38,6 @@ array.pop()
 return array
 }
 
-function 
+function removeElementFromEndOfArray(array) {
+return array.
+}
